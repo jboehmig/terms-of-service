@@ -28,7 +28,7 @@ All Applications created using the API must include a conspicuous link to a term
 
 All Applications must comply with any applicable requirements or use restrictions associated with the end user's content as specified by the applicable end user. Further, if you send any direct communication to individual end users outside of channels provided by the API (e.g., an e-mail), you must include a mechanism enabling end users to stop receiving such communications.
 
-You may use the API to create Applications that include advertising or marketing materials or that are designed for a commercial or business purpose. You acknowledge that is in the sole discretion of App.net end users whether to follow or use any Application that you create.
+You may use the API to create Applications that include advertising or marketing materials or that are designed for a commercial or business purpose. You acknowledge that it is the sole discretion of App.net end users whether to follow or use any Application that you create.
 
 ## License Restrictions
 
